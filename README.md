@@ -22,6 +22,18 @@ install Jetstream in your project
 composer require laravel/jetstream
 ```
 
+```md
+php artisan jetstream:install livewire
+```
+
+```md
+npm install && npm run dev
+```
+
+```md
+php artisan migrate
+```
+
 # INSTALLATION GUIDE
 
 > git clone https://github.com/alvin-kiveu/REGISTRATION-FORM-LARAVEL-JETSTREAM.git
@@ -43,3 +55,5 @@ composer require laravel/jetstream
 > php artisan serve
 
 > http://127.0.0.1:8000/
+
+Create Database: userRegistration
