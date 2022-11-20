@@ -15,7 +15,7 @@
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-#Laravel Jetstream
+# Laravel Jetstream
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://hdsbook.github.io/20201028-jetstream/jetstream-logo.svg" width="400" alt="Laravel Logo"></a></p>
 
